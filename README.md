@@ -1,2 +1,2 @@
-Hex color generator 
+HEX COLOR GENERATOR:
 Generates random hex color and displays it on page 
